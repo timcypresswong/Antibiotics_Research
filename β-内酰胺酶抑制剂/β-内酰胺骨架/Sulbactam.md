@@ -1,0 +1,3 @@
+![[Pasted image 20260329040020.png]]
+
+`CC1(C)[C@H](C(=O)O)N2C(=O)C[C@H]2S1(=O)=O`

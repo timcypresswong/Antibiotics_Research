@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "f5d7720355b550f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e54d1ee820218926",
+        "type": "tabs",
+        "dimension": 44.38687392055268,
+        "children": [
+          {
+            "id": "546ebf9a742c06b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "革兰染色特性/革兰染色特性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "革兰染色特性"
+            }
+          },
+          {
+            "id": "97581272207b4be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/二氮杂双环辛烷骨架.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二氮杂双环辛烷骨架"
+            }
+          },
+          {
+            "id": "f1a06754dd0f59f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "β-内酰胺酶抑制剂/硼酸酯类/硼酸酯类.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "硼酸酯类"
+            }
+          },
+          {
+            "id": "cdcac5b54ffd472b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "β-内酰胺/青霉素/青霉素G.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "青霉素G"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "eff1507f67891a44",
+        "type": "tabs",
+        "dimension": 55.613126079447326,
+        "children": [
+          {
+            "id": "85a2876f27422145",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "72934dff4ccd3d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "细菌分类.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "细菌分类"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d147b3f181d08e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6e6ed6505d4ec27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6c77a97ea3e8d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e3535bea68ae9854",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "58ae7c7009ac90fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "03d834c48ea02acc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cef045991b39a632",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8d5900e2cab653a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "β-内酰胺/青霉素/青霉素G.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "青霉素G 的反向链接列表"
+            }
+          },
+          {
+            "id": "b4c4b9ac772aa0eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "β-内酰胺/青霉素/青霉素G.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "青霉素G 的出链列表"
+            }
+          },
+          {
+            "id": "89b589e6e452f444",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "53445c5495bef7e3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "32f29418429e3c03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "β-内酰胺/青霉素/青霉素G.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "青霉素G 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "cdcac5b54ffd472b",
+  "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20260329163316.png",
+    "β-内酰胺/青霉素/青霉素.md",
+    "β-内酰胺/青霉素/青霉素G.md",
+    "β-内酰胺/头孢菌素",
+    "β-内酰胺/青霉素",
+    "β-内酰胺/碳青霉烯.md",
+    "β-内酰胺/头孢菌素/头孢菌素.md",
+    "Pasted image 20260329163020.png",
+    "Pasted image 20260329163009.png",
+    "β-内酰胺/β-内酰胺.md",
+    "β-内酰胺酶抑制剂/β-内酰胺酶抑制剂.md",
+    "糖肽类/糖肽类.md",
+    "β-内酰胺",
+    "四环素/四环素.md",
+    "糖肽类",
+    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/二氮杂双环辛烷骨架.md",
+    "四环素/Eravacycline.md",
+    "四环素/Tigecycline.md",
+    "四环素/Sarecycline.md",
+    "四环素/Omadacycline.md",
+    "四环素/Minocycline.md",
+    "Pasted image 20260329152806.png",
+    "Pasted image 20260329152206.png",
+    "Pasted image 20260329151743.png",
+    "Pasted image 20260329151309.png",
+    "Pasted image 20260329151258.png",
+    "Pasted image 20260329151125.png",
+    "抗生素种类.md",
+    "四环素",
+    "β-内酰胺酶抑制剂/硼酸酯类/硼酸酯类.md",
+    "β-内酰胺酶抑制剂/β-内酰胺骨架/β-内酰胺骨架.md",
+    "β-内酰胺酶抑制剂/硼酸酯类/Xeruborbactam.md",
+    "Pasted image 20260329150408.png",
+    "β-内酰胺酶抑制剂/硼酸酯类/Taniborbactam.md",
+    "β-内酰胺酶抑制剂/硼酸酯类/Vaborbactam.md",
+    "β-内酰胺酶抑制剂/硼酸酯类",
+    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/Durlobactam.md",
+    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/Relebactam.md",
+    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/Avibactam.md",
+    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架",
+    "β-内酰胺酶抑制剂/β-内酰胺骨架/Tazobactam.md",
+    "β-内酰胺酶抑制剂/β-内酰胺骨架/Calvulanic acid.md",
+    "β-内酰胺酶抑制剂/β-内酰胺骨架",
+    "β-内酰胺酶抑制剂",
+    "特殊结构与功能"
+  ]
+}

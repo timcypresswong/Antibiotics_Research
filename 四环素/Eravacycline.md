@@ -1,0 +1,3 @@
+2018
+![[Pasted image 20260329152806.png]]
+`CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C(=C(C=C4F)NC(=O)CN5CCCC5)O)C(=O)C3=C([C@@]2(C(=O)C(=C1O)C(=O)N)O)O`
