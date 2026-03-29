@@ -1,0 +1,3 @@
+头孢唑啉
+![[Pasted image 20260329164804.png]]
+`CC1=NN=C(SCC2=C(C(=O)O)N3C(=O)C(C3SC2)NC(=O)CN4C=NN=N4)S1`

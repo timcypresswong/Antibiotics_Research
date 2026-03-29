@@ -1,0 +1,3 @@
+头孢西酮
+![[Pasted image 20260330004302.png]]
+`CC1=NN=C(S1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)CN4C=C(C(=O)C(=C4)Cl)Cl)SC2)C(=O)O`

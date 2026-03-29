@@ -6,7 +6,7 @@
       {
         "id": "e54d1ee820218926",
         "type": "tabs",
-        "dimension": 44.38687392055268,
+        "dimension": 44.4015444015444,
         "children": [
           {
             "id": "546ebf9a742c06b3",
@@ -28,49 +28,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/二氮杂双环辛烷骨架.md",
+                "file": "β-内酰胺/头孢菌素/第二代/Cefbuperazone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二氮杂双环辛烷骨架"
-            }
-          },
-          {
-            "id": "f1a06754dd0f59f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "β-内酰胺酶抑制剂/硼酸酯类/硼酸酯类.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "硼酸酯类"
-            }
-          },
-          {
-            "id": "cdcac5b54ffd472b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "β-内酰胺/青霉素/青霉素G.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "青霉素G"
+              "title": "Cefbuperazone"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "eff1507f67891a44",
         "type": "tabs",
-        "dimension": 55.613126079447326,
+        "dimension": 55.5984555984556,
         "children": [
           {
             "id": "85a2876f27422145",
@@ -169,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "β-内酰胺/青霉素/青霉素G.md",
+                "file": "β-内酰胺/头孢菌素/第二代/Cefbuperazone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "青霉素G 的反向链接列表"
+              "title": "Cefbuperazone 的反向链接列表"
             }
           },
           {
@@ -188,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "β-内酰胺/青霉素/青霉素G.md",
+                "file": "β-内酰胺/头孢菌素/第二代/Cefbuperazone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "青霉素G 的出链列表"
+              "title": "Cefbuperazone 的出链列表"
             }
           },
           {
@@ -231,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "β-内酰胺/青霉素/青霉素G.md",
+                "file": "β-内酰胺/头孢菌素/第二代/Cefbuperazone.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "青霉素G 的大纲"
+              "title": "Cefbuperazone 的大纲"
             }
           }
         ]
@@ -258,53 +230,53 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cdcac5b54ffd472b",
+  "active": "97581272207b4be6",
   "lastOpenFiles": [
-    "README.md",
-    "Pasted image 20260329163316.png",
-    "β-内酰胺/青霉素/青霉素.md",
-    "β-内酰胺/青霉素/青霉素G.md",
-    "β-内酰胺/头孢菌素",
-    "β-内酰胺/青霉素",
-    "β-内酰胺/碳青霉烯.md",
+    "Pasted image 20260330011734.png",
+    "β-内酰胺/头孢菌素/第二代/Cefprozil.md",
+    "β-内酰胺/头孢菌素/第二代/Cefbuperazone.md",
+    "β-内酰胺/头孢菌素/第二代/第二代.md",
+    "Pasted image 20260330011600.png",
+    "β-内酰胺/头孢菌素/第二代/Cefotiam.md",
+    "Pasted image 20260330011425.png",
+    "β-内酰胺/头孢菌素/第二代/Ceforanide.md",
+    "Pasted image 20260330011324.png",
+    "β-内酰胺/头孢菌素/第二代/Cefonicid.md",
+    "Pasted image 20260330011229.png",
+    "β-内酰胺/头孢菌素/第二代/Cefminox.md",
+    "Pasted image 20260330011131.png",
+    "β-内酰胺/头孢菌素/第二代/Cefamandole.md",
+    "Pasted image 20260330010957.png",
+    "β-内酰胺/头孢菌素/第二代/Cefaclor.md",
+    "Pasted image 20260330010845.png",
     "β-内酰胺/头孢菌素/头孢菌素.md",
-    "Pasted image 20260329163020.png",
-    "Pasted image 20260329163009.png",
+    "β-内酰胺/头孢菌素/第一代/第一代.md",
+    "未命名 1.base",
+    "未命名.base",
+    "未命名 2.base",
+    "β-内酰胺/头孢菌素/第一代/Ceftezole.md",
+    "Pasted image 20260330005920.png",
+    "β-内酰胺/头孢菌素/第一代/Cefroxadine.md",
+    "Pasted image 20260330005801.png",
+    "β-内酰胺/头孢菌素/第一代/Cefradine.md",
+    "Pasted image 20260330005450.png",
     "β-内酰胺/β-内酰胺.md",
-    "β-内酰胺酶抑制剂/β-内酰胺酶抑制剂.md",
-    "糖肽类/糖肽类.md",
-    "β-内酰胺",
-    "四环素/四环素.md",
-    "糖肽类",
+    "β-内酰胺/头孢菌素/第一代/Cefazaflur.md",
     "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/二氮杂双环辛烷骨架.md",
-    "四环素/Eravacycline.md",
-    "四环素/Tigecycline.md",
-    "四环素/Sarecycline.md",
-    "四环素/Omadacycline.md",
-    "四环素/Minocycline.md",
-    "Pasted image 20260329152806.png",
-    "Pasted image 20260329152206.png",
-    "Pasted image 20260329151743.png",
-    "Pasted image 20260329151309.png",
-    "Pasted image 20260329151258.png",
-    "Pasted image 20260329151125.png",
-    "抗生素种类.md",
-    "四环素",
+    "β-内酰胺/头孢菌素/第一代/Cefazedone.md",
+    "β-内酰胺/头孢菌素/第一代/Cefatrizine.md",
+    "β-内酰胺/头孢菌素/第一代/Cephapirin.md",
+    "β-内酰胺/头孢菌素/第一代/Cephalothin.md",
+    "β-内酰胺/头孢菌素/第一代/Cefaloridine.md",
+    "β-内酰胺/头孢菌素/第一代/Cefalonium.md",
     "β-内酰胺酶抑制剂/硼酸酯类/硼酸酯类.md",
-    "β-内酰胺酶抑制剂/β-内酰胺骨架/β-内酰胺骨架.md",
-    "β-内酰胺酶抑制剂/硼酸酯类/Xeruborbactam.md",
-    "Pasted image 20260329150408.png",
-    "β-内酰胺酶抑制剂/硼酸酯类/Taniborbactam.md",
-    "β-内酰胺酶抑制剂/硼酸酯类/Vaborbactam.md",
-    "β-内酰胺酶抑制剂/硼酸酯类",
-    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/Durlobactam.md",
-    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/Relebactam.md",
-    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/Avibactam.md",
-    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架",
-    "β-内酰胺酶抑制剂/β-内酰胺骨架/Tazobactam.md",
-    "β-内酰胺酶抑制剂/β-内酰胺骨架/Calvulanic acid.md",
-    "β-内酰胺酶抑制剂/β-内酰胺骨架",
-    "β-内酰胺酶抑制剂",
-    "特殊结构与功能"
+    "β-内酰胺/头孢菌素/第一代/Cephaloglycin.md",
+    "β-内酰胺/头孢菌素/第五代",
+    "β-内酰胺/头孢菌素/第四代",
+    "β-内酰胺/头孢菌素/第三代",
+    "β-内酰胺/头孢菌素/第二代",
+    "β-内酰胺/头孢菌素/第一代/未命名",
+    "β-内酰胺/头孢菌素/第一代",
+    "β-内酰胺/头孢菌素"
   ]
 }

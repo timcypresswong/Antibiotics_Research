@@ -1,0 +1,3 @@
+头孢羟唑
+![[Pasted image 20260330010957.png]]
+`CN1C(=NN=N1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)[C@@H](C4=CC=CC=C4)O)SC2)C(=O)O`

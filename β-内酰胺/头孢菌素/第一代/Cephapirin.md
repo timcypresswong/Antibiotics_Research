@@ -1,0 +1,3 @@
+头孢匹林
+![[Pasted image 20260330003834.png]]
+`CC(=O)OCC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)CSC3=CC=NC=C3)SC1)C(=O)O`

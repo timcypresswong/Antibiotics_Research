@@ -1,0 +1,3 @@
+头孢替唑
+![[Pasted image 20260330005920.png]]
+`C1C(=C(N2[C@H](S1)[C@@H](C2=O)NC(=O)CN3C=NN=N3)C(=O)O)CSC4=NN=CS4`
