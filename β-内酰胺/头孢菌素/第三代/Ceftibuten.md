@@ -1,0 +1,3 @@
+头孢布烯
+![[Pasted image 20260330154956.png]]
+`C1C=C(N2[C@H](S1)[C@@H](C2=O)NC(=O)/C(=C\CC(=O)O)/C3=CSC(=N3)N)C(=O)O`

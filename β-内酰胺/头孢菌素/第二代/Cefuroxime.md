@@ -1,0 +1,3 @@
+头孢呋辛
+![[Pasted image 20260330083549.png]]
+`CO/N=C(/C1=CC=CO1)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)COC(=O)N)C(=O)O`

@@ -1,0 +1,3 @@
+氟氧头孢
+![[Pasted image 20260330155254.png]]
+`CO[C@@]1([C@@H]2N(C1=O)C(=C(CO2)CSC3=NN=NN3CCO)C(=O)O)NC(=O)CSC(F)F`

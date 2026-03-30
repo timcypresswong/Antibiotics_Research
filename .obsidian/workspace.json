@@ -6,7 +6,7 @@
       {
         "id": "e54d1ee820218926",
         "type": "tabs",
-        "dimension": 44.4015444015444,
+        "dimension": 28.535980148883375,
         "children": [
           {
             "id": "546ebf9a742c06b3",
@@ -14,35 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "革兰染色特性/革兰染色特性.md",
+                "file": "β-内酰胺/头孢菌素/头孢菌素.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "革兰染色特性"
-            }
-          },
-          {
-            "id": "97581272207b4be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "β-内酰胺/头孢菌素/第二代/Cefbuperazone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cefbuperazone"
+              "title": "头孢菌素"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "eff1507f67891a44",
         "type": "tabs",
-        "dimension": 55.5984555984556,
+        "dimension": 71.46401985111663,
         "children": [
           {
             "id": "85a2876f27422145",
@@ -52,20 +37,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "关系图谱"
-            }
-          },
-          {
-            "id": "72934dff4ccd3d1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "细菌分类.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "细菌分类"
             }
           }
         ]
@@ -230,53 +201,53 @@
       "bases:新建数据库": false
     }
   },
-  "active": "97581272207b4be6",
+  "active": "546ebf9a742c06b3",
   "lastOpenFiles": [
-    "Pasted image 20260330011734.png",
-    "β-内酰胺/头孢菌素/第二代/Cefprozil.md",
-    "β-内酰胺/头孢菌素/第二代/Cefbuperazone.md",
-    "β-内酰胺/头孢菌素/第二代/第二代.md",
-    "Pasted image 20260330011600.png",
-    "β-内酰胺/头孢菌素/第二代/Cefotiam.md",
-    "Pasted image 20260330011425.png",
-    "β-内酰胺/头孢菌素/第二代/Ceforanide.md",
-    "Pasted image 20260330011324.png",
-    "β-内酰胺/头孢菌素/第二代/Cefonicid.md",
-    "Pasted image 20260330011229.png",
-    "β-内酰胺/头孢菌素/第二代/Cefminox.md",
-    "Pasted image 20260330011131.png",
-    "β-内酰胺/头孢菌素/第二代/Cefamandole.md",
-    "Pasted image 20260330010957.png",
-    "β-内酰胺/头孢菌素/第二代/Cefaclor.md",
-    "Pasted image 20260330010845.png",
-    "β-内酰胺/头孢菌素/头孢菌素.md",
+    "β-内酰胺/头孢菌素/第二代/Cefuroxime.md",
+    "β-内酰胺/头孢菌素/第五代/Ceftolozane.md",
+    "β-内酰胺/头孢菌素/第五代/Ceftobiprole medocaril.md",
+    "β-内酰胺/头孢菌素/第五代/Ceftaroline Fosamil.md",
+    "β-内酰胺/头孢菌素/第五代/Cefiderocol.md",
+    "β-内酰胺/头孢菌素/第五代/第五代.md",
     "β-内酰胺/头孢菌素/第一代/第一代.md",
+    "Cefiderocol.png",
+    "Ceftolozane.png",
+    "Ceftobiprole 1.png",
+    "Ceftobiprole.png",
+    "Ceftaroline.png",
+    "β-内酰胺/头孢菌素/第二代/Cefminox.md",
+    "β-内酰胺/头孢菌素/第五代",
+    "β-内酰胺/头孢菌素/第二代/Cefmetazole.md",
+    "β-内酰胺/头孢菌素/第二代/Cefamandole.md",
+    "β-内酰胺/头孢菌素/第二代/Cefaclor.md",
+    "β-内酰胺/头孢菌素/第三代/Cefodizime.md",
+    "β-内酰胺/头孢菌素/第三代/Cefmenoxime.md",
+    "β-内酰胺/头孢菌素/第三代/Cefixime.md",
+    "β-内酰胺/头孢菌素/第三代/Cefetamet.md",
+    "β-内酰胺/头孢菌素/第三代/Cefditoren pivoxil.md",
+    "β-内酰胺/头孢菌素/第三代/Cefdinir.md",
+    "β-内酰胺/头孢菌素/第三代/Cefdaloxime.md",
+    "β-内酰胺/头孢菌素/第三代/Cefcapene.md",
+    "β-内酰胺/头孢菌素/第四代/Cefquinome.md",
+    "β-内酰胺/头孢菌素/第四代/Cefpirome.md",
+    "β-内酰胺/头孢菌素/第四代/Cefozopran.md",
+    "β-内酰胺/头孢菌素/第三代/第三代.md",
+    "β-内酰胺/头孢菌素/第四代/Cefepime.md",
+    "β-内酰胺/头孢菌素/第四代/第四代.md",
+    "Pasted image 20260330174120.png",
+    "Pasted image 20260330173848.png",
+    "Pasted image 20260330173502.png",
+    "Pasted image 20260330173241.png",
+    "Pasted image 20260330173124.png",
+    "β-内酰胺/头孢菌素/头孢菌素.md",
+    "β-内酰胺/头孢菌素/第四代",
+    "β-内酰胺/头孢菌素/第三代",
     "未命名 1.base",
     "未命名.base",
     "未命名 2.base",
-    "β-内酰胺/头孢菌素/第一代/Ceftezole.md",
-    "Pasted image 20260330005920.png",
-    "β-内酰胺/头孢菌素/第一代/Cefroxadine.md",
-    "Pasted image 20260330005801.png",
-    "β-内酰胺/头孢菌素/第一代/Cefradine.md",
-    "Pasted image 20260330005450.png",
-    "β-内酰胺/β-内酰胺.md",
-    "β-内酰胺/头孢菌素/第一代/Cefazaflur.md",
-    "β-内酰胺酶抑制剂/二氮杂双环辛烷骨架/二氮杂双环辛烷骨架.md",
-    "β-内酰胺/头孢菌素/第一代/Cefazedone.md",
-    "β-内酰胺/头孢菌素/第一代/Cefatrizine.md",
-    "β-内酰胺/头孢菌素/第一代/Cephapirin.md",
-    "β-内酰胺/头孢菌素/第一代/Cephalothin.md",
-    "β-内酰胺/头孢菌素/第一代/Cefaloridine.md",
-    "β-内酰胺/头孢菌素/第一代/Cefalonium.md",
-    "β-内酰胺酶抑制剂/硼酸酯类/硼酸酯类.md",
-    "β-内酰胺/头孢菌素/第一代/Cephaloglycin.md",
     "β-内酰胺/头孢菌素/第五代",
     "β-内酰胺/头孢菌素/第四代",
     "β-内酰胺/头孢菌素/第三代",
-    "β-内酰胺/头孢菌素/第二代",
-    "β-内酰胺/头孢菌素/第一代/未命名",
-    "β-内酰胺/头孢菌素/第一代",
-    "β-内酰胺/头孢菌素"
+    "β-内酰胺/头孢菌素/第二代"
   ]
 }
